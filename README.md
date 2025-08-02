@@ -50,6 +50,7 @@ This repository contains our collaborative summer camp project focused on genera
 
 - https://github.com/alaminerca  
 - https://github.com/ahmedbahaj
+- http://github.com/nabil-ha
 
 ---
 
