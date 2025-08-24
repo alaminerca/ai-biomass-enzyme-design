@@ -78,7 +78,7 @@ cd ai-biomass-enzyme-design
 python3 -m venv env
 source env/bin/activate
 
-# Install required Python packages
+# Install required Python packages (all packages will be Installed automatically, in case they did not, run the next this line)
 pip install -r requirements.txt
 ````
 
